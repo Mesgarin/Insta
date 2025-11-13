@@ -1,0 +1,15 @@
+C:\Users\Nastaran\Desktop\PHD\Instagram\Insta\MyProject\bin\Debug\net10.0\MyProject.exe
+C:\Users\Nastaran\Desktop\PHD\Instagram\Insta\MyProject\bin\Debug\net10.0\MyProject.deps.json
+C:\Users\Nastaran\Desktop\PHD\Instagram\Insta\MyProject\bin\Debug\net10.0\MyProject.runtimeconfig.json
+C:\Users\Nastaran\Desktop\PHD\Instagram\Insta\MyProject\bin\Debug\net10.0\MyProject.dll
+C:\Users\Nastaran\Desktop\PHD\Instagram\Insta\MyProject\bin\Debug\net10.0\MyProject.pdb
+C:\Users\Nastaran\Desktop\PHD\Instagram\Insta\MyProject\obj\Debug\net10.0\MyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nastaran\Desktop\PHD\Instagram\Insta\MyProject\obj\Debug\net10.0\MyProject.AssemblyInfoInputs.cache
+C:\Users\Nastaran\Desktop\PHD\Instagram\Insta\MyProject\obj\Debug\net10.0\MyProject.AssemblyInfo.cs
+C:\Users\Nastaran\Desktop\PHD\Instagram\Insta\MyProject\obj\Debug\net10.0\MyProject.csproj.CoreCompileInputs.cache
+C:\Users\Nastaran\Desktop\PHD\Instagram\Insta\MyProject\obj\Debug\net10.0\MyProject.sourcelink.json
+C:\Users\Nastaran\Desktop\PHD\Instagram\Insta\MyProject\obj\Debug\net10.0\MyProject.dll
+C:\Users\Nastaran\Desktop\PHD\Instagram\Insta\MyProject\obj\Debug\net10.0\refint\MyProject.dll
+C:\Users\Nastaran\Desktop\PHD\Instagram\Insta\MyProject\obj\Debug\net10.0\MyProject.pdb
+C:\Users\Nastaran\Desktop\PHD\Instagram\Insta\MyProject\obj\Debug\net10.0\MyProject.genruntimeconfig.cache
+C:\Users\Nastaran\Desktop\PHD\Instagram\Insta\MyProject\obj\Debug\net10.0\ref\MyProject.dll
